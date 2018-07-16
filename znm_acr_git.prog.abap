@@ -11,7 +11,4 @@ REPORT ZNM_ACR_GIT.
 *Comment
 
 
-
-
-*Remote Changes
-
+*Local Changes Reborn
