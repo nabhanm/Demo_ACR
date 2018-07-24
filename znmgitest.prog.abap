@@ -12,3 +12,11 @@ Write:/ 'Test'.
 
 
 
+
+
+
+Write:/ 'Hello'.
+
+
+
+Write:/ 'Hi'.
