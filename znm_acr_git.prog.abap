@@ -11,7 +11,7 @@ REPORT ZNM_ACR_GIT.
 *Comment
 
 
-*Local Changes Reborn
+*Local Changes
 
 *print Hello
 Write:/ 'Hello'.
