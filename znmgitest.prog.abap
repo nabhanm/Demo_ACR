@@ -9,4 +9,6 @@
 REPORT ZNMGITEST.
 
 Write:/ 'Test'.
-Write:/ 'ACR DEmo'.
+
+
+
