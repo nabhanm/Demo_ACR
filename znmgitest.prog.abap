@@ -10,5 +10,5 @@ REPORT ZNMGITEST.
 
 Write:/ 'Test'.
 
-
-
+*Added Comments
+Write:/ 'abapGit'.
