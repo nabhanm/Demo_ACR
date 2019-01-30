@@ -11,4 +11,4 @@ REPORT ZNMGITEST.
 Write:/ 'Test'.
 
 *Added Comments
-Write:/ 'abapGit Local'.
+Write:/ 'abapGit Local 1'.
